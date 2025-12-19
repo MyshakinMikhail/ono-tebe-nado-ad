@@ -1,1 +1,1 @@
-https://github.com/MyshakinMikhail/ono-tebe-nado-ad
+https://github.com/MyshakinMikhail/ono-tebe-nado
